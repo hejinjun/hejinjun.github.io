@@ -139,7 +139,7 @@
 <p>1.创建新库</p>
 
 <pre><code>    此步骤需要在Github上创建一个代码库，命名格式为username.github.io.
-    username是Github的用户名或者是组织名
+    username是Github的用户名或者是组织名。可以不要勾选readme
 </code></pre>
 
 <p>2.Octopress配置</p>
@@ -157,8 +157,8 @@
 
     这将生成博客的发布文件，生成的文件会复制到_deploy/，将它们添加到git，并提交和推送到主分支。
     观察自己的master目录，查看是否已经与_deploy/目录相一致。如果Master目录空空荡荡则说明没有成功。
-    如果出现：Updates were rejected because the tip of your current branch is behind
-    请进入_deploy目录，执行git pull origin master。然后重试生成和发布步骤。
+    如果出现：Updates were rejected because the tip of your current branch is behind。
+    这是因为git版本冲突造成的。请进入_deploy目录，。执行git pull origin master。然后重试生成和发布步骤。
 </code></pre>
 
 <p>4.提交source目录</p>
@@ -168,7 +168,7 @@
     3. git push origin source
 </code></pre>
 
-<p>5.打开浏览器查看是否能正常运行</p>
+<p>5.打开浏览器输入username.github.io看能否正常运行</p>
 </div>
   
   
