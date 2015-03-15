@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Octopress使用心得"
+date: 2015-03-15 16:33:38 +0800
+comments: true
+categories: 
+---
+
+##Markdown
+自从前天配置好Github博客之后就开始尝试用Octopress.这几天用下来感觉还是挺不错的，虽然需要实用Markdown来写作对有些童鞋可能不太适应。当由于自己之前的笔记整理都是通过Markdown来进行写作的，所以就感觉很不错。
+
+关于Markdown编辑器，我在Windows系统下是用MarkdownPad2。关于类似的软件还有很多，但其实这款软件就可以满足我们的需求了。
+Mac下也有免费的Mou编辑器可以使用。
+
+##博客搬家
+由于目前的博客很给力，用的很爽，近期会将之前的一些笔记抽时间转移到Github上。
