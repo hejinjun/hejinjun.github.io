@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://hejinjun.github.io/atom.xml" rel="self"/>
   <link href="http://hejinjun.github.io/"/>
-  <updated>2015-03-13T16:03:09+08:00</updated>
+  <updated>2015-03-15T16:50:27+08:00</updated>
   <id>http://hejinjun.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress使用心得]]></title>
+    <link href="http://hejinjun.github.io/blog/2015/03/15/notice/"/>
+    <updated>2015-03-15T16:33:38+08:00</updated>
+    <id>http://hejinjun.github.io/blog/2015/03/15/notice</id>
+    <content type="html"><![CDATA[<h2>Markdown</h2>
+
+<p>自从前天配置好Github博客之后就开始尝试用Octopress.这几天用下来感觉还是挺不错的，虽然需要实用Markdown来写作对有些童鞋可能不太适应。当由于自己之前的笔记整理都是通过Markdown来进行写作的，所以就感觉很不错。</p>
+
+<p>关于Markdown编辑器，我在Windows系统下是用MarkdownPad2。关于类似的软件还有很多，但其实这款软件就可以满足我们的需求了。
+Mac下也有免费的Mou编辑器可以使用。</p>
+
+<h2>博客搬家</h2>
+
+<p>由于目前的博客很给力，用的很爽，近期会将之前的一些笔记抽时间转移到Github上。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[在Github上构建Octopress博客（Windows版）]]></title>
